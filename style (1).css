@@ -1,0 +1,22 @@
+#navbar{
+   z-index: 0;
+}
+#map{
+    height: 1000px;
+    width: 2000px;
+}
+#video{
+    height: 2000px;
+    width: 4000px;
+}.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.movie_head i{
+    float: right;
+}
+.achievment_text span{
+    color: orange;
+}
